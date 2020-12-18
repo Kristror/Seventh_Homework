@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doubler", "Doubler\Doubler.csproj", "{55547066-F4C6-4BCD-97B3-E65167F250ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessNumber", "GuessNumber\GuessNumber.csproj", "{AC7E17B0-E7EA-4375-B1F9-438A30F1A19D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{55547066-F4C6-4BCD-97B3-E65167F250ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55547066-F4C6-4BCD-97B3-E65167F250ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55547066-F4C6-4BCD-97B3-E65167F250ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC7E17B0-E7EA-4375-B1F9-438A30F1A19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC7E17B0-E7EA-4375-B1F9-438A30F1A19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC7E17B0-E7EA-4375-B1F9-438A30F1A19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC7E17B0-E7EA-4375-B1F9-438A30F1A19D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
