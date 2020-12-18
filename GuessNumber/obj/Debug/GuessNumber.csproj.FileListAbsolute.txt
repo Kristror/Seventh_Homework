@@ -1,0 +1,10 @@
+D:\Загрузки\Учеба\Geek\Основы C#\Seventh_Homework\GuessNumber\bin\Debug\GuessNumber.exe.config
+D:\Загрузки\Учеба\Geek\Основы C#\Seventh_Homework\GuessNumber\bin\Debug\GuessNumber.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Seventh_Homework\GuessNumber\bin\Debug\GuessNumber.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Seventh_Homework\GuessNumber\obj\Debug\GuessNumber.csprojAssemblyReference.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Seventh_Homework\GuessNumber\obj\Debug\GuessNumber.Form1.resources
+D:\Загрузки\Учеба\Geek\Основы C#\Seventh_Homework\GuessNumber\obj\Debug\GuessNumber.Properties.Resources.resources
+D:\Загрузки\Учеба\Geek\Основы C#\Seventh_Homework\GuessNumber\obj\Debug\GuessNumber.csproj.GenerateResource.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Seventh_Homework\GuessNumber\obj\Debug\GuessNumber.csproj.CoreCompileInputs.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Seventh_Homework\GuessNumber\obj\Debug\GuessNumber.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Seventh_Homework\GuessNumber\obj\Debug\GuessNumber.pdb
