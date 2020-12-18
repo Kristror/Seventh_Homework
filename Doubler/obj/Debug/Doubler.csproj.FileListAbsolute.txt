@@ -1,0 +1,10 @@
+D:\Загрузки\Учеба\Geek\Основы C#\Seventh_Homework\Doubler\bin\Debug\Doubler.exe.config
+D:\Загрузки\Учеба\Geek\Основы C#\Seventh_Homework\Doubler\bin\Debug\Doubler.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Seventh_Homework\Doubler\bin\Debug\Doubler.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Seventh_Homework\Doubler\obj\Debug\Doubler.csprojAssemblyReference.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Seventh_Homework\Doubler\obj\Debug\Doubler.Properties.Resources.resources
+D:\Загрузки\Учеба\Geek\Основы C#\Seventh_Homework\Doubler\obj\Debug\Doubler.csproj.GenerateResource.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Seventh_Homework\Doubler\obj\Debug\Doubler.csproj.CoreCompileInputs.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Seventh_Homework\Doubler\obj\Debug\Doubler.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Seventh_Homework\Doubler\obj\Debug\Doubler.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Seventh_Homework\Doubler\obj\Debug\Doubler.Form1.resources

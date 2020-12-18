@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doubler", "Doubler\Doubler.csproj", "{55547066-F4C6-4BCD-97B3-E65167F250ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55547066-F4C6-4BCD-97B3-E65167F250ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55547066-F4C6-4BCD-97B3-E65167F250ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55547066-F4C6-4BCD-97B3-E65167F250ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55547066-F4C6-4BCD-97B3-E65167F250ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10FCCF1F-E8F2-471E-B925-439240132253}
+	EndGlobalSection
+EndGlobal
